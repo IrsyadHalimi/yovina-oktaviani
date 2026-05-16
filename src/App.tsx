@@ -170,7 +170,7 @@ export default function App() {
               <div className="relative z-10 glass-panel p-2 rounded-sm overflow-hidden aspect-[3/4] group">
                 <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-space-deep to-transparent z-10" />
                 <img 
-                  src="../public/assets/img/yovina.jpeg" 
+                  src="/assets/img/yovina.jpeg" 
                   alt="Professional HSE Specialist" 
                   className="w-full h-full object-cover group-hover:grayscale-0 transition-all duration-700" 
                   referrerPolicy="no-referrer"
